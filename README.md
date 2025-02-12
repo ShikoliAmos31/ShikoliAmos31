@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @ShikoliAmos31
+- Electronics Technician
+- Electrical Engineer
 - 👀 Coding Enthusiast
-- 🌱 Backend Developer 
+- 🌱 Backend Developer
+- MERN (MongoDB,Express,React & Node js
+- Python (Django Framework)
 - 💞️ I’m looking to collaborate on varioius projects
 - 📫 You can find me on amosshikoli@gmail.com
 - 😄 
