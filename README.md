@@ -5,7 +5,7 @@
 - 🌱 Backend Developer
 - MERN (MongoDB,Express,React & Node js
 - Python (Django Framework)
-- 💞️ I’m looking to collaborate on varioius projects
+- 💞️ I’m looking to collaborate on various projects
 - 📫 You can find me on amosshikoli@gmail.com
 - 😄 
 - ⚡ Fun fact: Let's have fun while coding!
