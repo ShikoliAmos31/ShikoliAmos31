@@ -7,6 +7,7 @@
 - Python (Django Framework)
 - 💞️ I’m looking to collaborate on various projects
 - 📫 You can find me on amosshikoli@gmail.com
+- my personal website https://amos-journey-website.netlify.app/
 - 😄 
 - ⚡ Fun fact: Let's have fun while coding!
 
